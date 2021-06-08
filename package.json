@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "homepage": ".",
+
   "scripts": {
-    "start": "nodemon app.js",
-    "predeploy": "npm run build",
-    "deploy":"gh-pages -d build"
-  },
+    "start": "nodemon app.js"
+    },
   "keywords": [],
   "author": "",
   "license": "ISC",
